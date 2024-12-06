@@ -39,5 +39,5 @@ Users should be able to:
 ## Author
 
 - Nikhila
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Nikhila-DN]([https://www.frontendmentor.io/profile/Nikhila-DN])
 
