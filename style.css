@@ -13,7 +13,7 @@ main{
 .blog{
     margin: auto;
     padding: 24px;
-    width: 384px;
+    width: 370px;
     height: 522px;
     background-color: white;
     border-radius: 20px;
@@ -64,7 +64,6 @@ img{
 
 .description{
     color: #6B6B6B;
-    width: 95%;
     font-size: 16px;
     font-weight: 500;
     line-height: 150%;
@@ -85,8 +84,5 @@ img{
     .blog{
         width: 80%;
         height: 80%;
-    }
-    .description{
-        width: 100%;
     }
 }
